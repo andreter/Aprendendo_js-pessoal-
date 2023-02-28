@@ -1,0 +1,11 @@
+
+body{
+    background-color: aquamarine;
+}
+
+section{
+    background-color: aliceblue;
+    border-radius: 15px ;
+    width: 350px;
+    padding: 10px;
+}

@@ -1,0 +1,23 @@
+
+body{
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section{
+    background-color: beige;
+    width: 500px;
+    padding: 20px;
+
+}
+
+.container{
+    display: flex;
+}
+#num{
+    margin-left: 15px;
+}
+
+
